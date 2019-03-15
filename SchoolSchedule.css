@@ -1,0 +1,27 @@
+/*
+* Erin Kelleher
+* Due Date
+* School Schedule
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    /* color of the background of the web page */
+    background-color: coral
+}
+/* border color and size */
+table, td, th { border: 1px solid blue; }
+
+table { border-collapse: collapse; }
+
+/* colors of the boxes that I made */
+thead { background-color: lightpink; }
+tbody { background-color: beige}
+tfoot { background-color: powderblue; }
